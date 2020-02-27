@@ -2,7 +2,7 @@
 
 	$servername = 'localhost';
 	$username = 'root';
-	$pwd = '15m431 54n';
+	$pwd = '';
 	$dbname = 'Usuarios';
 
 	$conn = mysqli_connect($servername, $username, $pwd, $dbname);
